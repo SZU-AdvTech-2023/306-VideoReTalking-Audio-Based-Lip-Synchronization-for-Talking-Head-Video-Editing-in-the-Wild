@@ -1,7 +1,8 @@
-@inproceedings{REPO306,
-    author = "Cheng, Kun and Cun, Xiaodong and Zhang, Yong and Xia, Menghan and Yin, Fei and Zhu, Mingrui and Wang, Xuan and Wang, Jue and Wang, Nannan",
-    booktitle = "SIGGRAPH Asia 2022 Conference Papers",
-    numpages = "9",
-    title = "{VideoReTalking: Audio-Based Lip Synchronization for Talking Head Video Editing In the Wild}",
-    year = "2022"
-}
+@misc{cheng2022videoretalking,
+        title={VideoReTalking: Audio-based Lip Synchronization for Talking Head Video Editing In the Wild}, 
+        author={Kun Cheng and Xiaodong Cun and Yong Zhang and Menghan Xia and Fei Yin and Mingrui Zhu and Xuan Wang and Jue Wang and Nannan Wang},
+        year={2022},
+        eprint={2211.14758},
+        archivePrefix={arXiv},
+        primaryClass={cs.CV}
+  }
